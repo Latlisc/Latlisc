@@ -10,7 +10,7 @@ Email: latiaswwq@gmail.com
 
 Discord: Latlisc#9501
 
-Newgrounds: latlisc.newgrounds.com
+Newgrounds: https://latlisc.newgrounds.com
 
 I don't really know why you would bother with hunting me down on Newgrounds,
 
@@ -26,7 +26,7 @@ mainly scheduled messages, chemistry math, and maybe image creation/manipulation
 
 but those are all probably about as good as pipe dreams at the moment,
 
-I have a   l o t   to learn.
+I have a lot to learn.
 <!---
 Latlisc/Latlisc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
